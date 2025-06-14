@@ -1,0 +1,45 @@
+Project Summary: Diwali Sales Data Analysis
+This project focuses on analyzing customer purchasing behavior during the Diwali season using a retail dataset. The objective was to extract actionable insights about buyers, their preferences, and sales trends.
+
+✅ Key Steps:
+Data Cleaning & Preparation:
+
+Removed irrelevant columns and missing values
+
+Converted necessary data types for analysis
+
+Exploratory Data Analysis (EDA):
+
+Performed using Seaborn & Matplotlib for visual insights
+
+Grouped and compared data by demographic and purchase features
+
+🔍 Major Insights:
+Gender: Females made more purchases and contributed more to total sales than males.
+
+Age Group: The 26–35 age group showed the highest buying activity, especially among females.
+
+State: Most orders and revenue came from Uttar Pradesh, Maharashtra, and Karnataka.
+
+Marital Status: Married women were the largest contributors to overall sales.
+
+Occupation: Customers in IT, Healthcare, and Aviation sectors were the top spenders.
+
+Product Categories: Food, Clothing, and Electronics were the most purchased product types.
+
+Top Products: Specific product IDs emerged as the best-sellers by volume.
+
+👥 Customer Persona Identified:
+Married women aged 26–35 from UP, Maharashtra, or Karnataka, working in IT, Healthcare, or Aviation, primarily shopping for Food, Clothing, and Electronics.
+
+🎯 Conclusion:
+The analysis reveals clear demographic patterns and purchasing behaviors, helping businesses target high-value customer segments more effectively. 
+This insight can be used to improve marketing, inventory planning, and sales strategies for future festive seasons.
+
+
+
+
+
+
+
+
